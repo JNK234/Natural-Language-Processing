@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Contains notebooks and material supporting to NLP with PyTorch and fast.ai
+Contains notebooks and material supporting to NLP
